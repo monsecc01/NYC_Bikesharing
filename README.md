@@ -12,12 +12,18 @@ The purpose of the bike trip analysis is to create visualizations of Citibike tr
 
 ## Results
 The Top Start and End locations were found for Citibike users in NYC. We can see that the large majority of users are located in Manhattan, specifically Midtown and Lower Manhattan. This could be due to the high density of people that work in those areas.  
+
 <img width="500" alt="Top start and end locations" src="https://user-images.githubusercontent.com/81447450/123561757-e64bc880-d76f-11eb-98a5-8d2b36dae235.png">
 
+The results for Checkout Times for all users show that the majority ride for an average of less than an hour. The highest average riding duration is 5 minutes.
+
 <img width="572" alt="checkout times for users" src="https://user-images.githubusercontent.com/81447450/123561760-ec41a980-d76f-11eb-9fc1-f7c422900bd6.png">
+
+The Checkout Times by gender visualization further dives into the checkout time data. We see that the majority of riders are males.
+
 <img width="653" alt="checkout by gender" src="https://user-images.githubusercontent.com/81447450/123561764-f19ef400-d76f-11eb-8471-5df6b8424c8c.png">
 <img width="374" alt="weekday per hour" src="https://user-images.githubusercontent.com/81447450/123561767-f6fc3e80-d76f-11eb-91e0-9e7b3f77660e.png">
-<img width="571" alt="trips by gender" src="https://user-images.githubusercontent.com/81447450/123561773-fa8fc580-d76f-11eb-9a71-a4a96de62e26.png">
+<img width="571" alt="trips by gender" src="https://user-images.githubusercontent.com/81447450/123562665-b69fbf00-d775-11eb-9b6c-daeab2847792.png">
 <img width="352" alt="by Gender by weekday" src="https://user-images.githubusercontent.com/81447450/123561775-fcf21f80-d76f-11eb-96e5-e89d5ad0e29e.png">
 
 
