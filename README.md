@@ -23,7 +23,7 @@ The Checkout Times by gender visualization further dives into the checkout time 
 
 <img width="653" alt="checkout by gender" src="https://user-images.githubusercontent.com/81447450/123561764-f19ef400-d76f-11eb-8471-5df6b8424c8c.png">
 
-When observing the Bike Trips heatmap for each hour of the day , we see that more bike trips occur during the usual work start and end times (8 am -5 pm). This further supports the conclusion that bikes are used for commuting to and from work. On Saturday afternoons we also see high activity, this could be due to recreational bike riding around the city. 
+When observing the Bike Trips heatmap for each hour of the day , we see that more bike trips occur during the usual work start and end times (8 am and 5 pm). This further supports the conclusion that bikes are used for commuting to and from work. On Saturday afternoons we also see high activity, although not as high compared to during the week, but this could be due to recreational bike riding around the city. 
 
 <img width="374" alt="weekday per hour" src="https://user-images.githubusercontent.com/81447450/123568596-4485a500-d78a-11eb-83d7-c891ff0e4315.png">
 
@@ -37,7 +37,10 @@ When we look at the Bike Trips heatmap by user type and gender, we see that most
 
 
 ## Summary
+Overall we can see that most people using the bikesharing system in NYC use the bikes for commuting to and from work. It also seems that there are customers who bike recreationally (most likely tourists). One key observation is that the majority of the overall bikers using the bikes are male, however further investigations will have to be made to understand why this is. 
+Two suggested visualizations to better understand the customer base are:
+1.  Reasons why people don't use bikes for transportation (this might have to be preceded by a survey)
+2.  Which stations are "sold out" during peak hours to understand if more stations are needed
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
 See the dashboard here:
 [NY Citibike Dashboard](https://public.tableau.com/views/NYC_CitiBike_16248281330990/NYCitibike?:language=en-US&:display_count=n&:origin=viz_share_link)
