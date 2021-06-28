@@ -25,22 +25,19 @@ The Checkout Times by gender visualization further dives into the checkout time 
 
 When observing the Bike Trips heatmap for each hour of the day , we see that more bike trips occur during the usual work start and end times (8 am -5 pm). This further supports the conclusion that bikes are used for commuting to and from work. On Saturday afternoons we also see high activity, this could be due to recreational bike riding around the city. 
 
-<img width="374" alt="weekday per hour" src="https://user-images.githubusercontent.com/81447450/123561767-f6fc3e80-d76f-11eb-91e0-9e7b3f77660e.png">
+<img width="374" alt="weekday per hour" src="https://user-images.githubusercontent.com/81447450/123568596-4485a500-d78a-11eb-83d7-c891ff0e4315.png">
 
 The results for the Bike Trips heatmap broken up by gender shows similar results as the heatmap for all users and the Checkout Times by gender line graph. It showed that most of the bike riders that commute during end/start work hours identify as male. 
 
 <img width="571" alt="trips by gender" src="https://user-images.githubusercontent.com/81447450/123562665-b69fbf00-d775-11eb-9b6c-daeab2847792.png">
 
-When we look at the Bike Trips heatmap by user type and gender, we see that most reocurring  
+When we look at the Bike Trips heatmap by user type and gender, we see that most regular bike riders identify as male. Also, this visualization shows that one time customers use bikes equally amongst all genders. 
 
 <img width="352" alt="by Gender by weekday" src="https://user-images.githubusercontent.com/81447450/123561775-fcf21f80-d76f-11eb-96e5-e89d5ad0e29e.png">
 
 
-
-
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
-
 ## Summary
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+See the dashboard here:
+[NY Citibike Dashboard](https://public.tableau.com/views/NYC_CitiBike_16248281330990/NYCitibike?:language=en-US&:display_count=n&:origin=viz_share_link)
