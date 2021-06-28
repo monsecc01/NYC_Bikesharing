@@ -2,6 +2,8 @@
 
 ## Resources
 
+[NY_Citybike_Challenge.ipynb](https://github.com/monsecc01/NYC_Bikesharing/blob/f943c55d69ff07f36792c8930eecb9f221188448/NYC_CitiBike_Challenge.ipynb)
+
 ## Purpose
 The purpose of the bike trip analysis is to create visualizations of Citibike trip data in NYC. The visualizations will help back up a proposal for a bike-sharing program in Des Moines, Iowa. We used Pandas to transform and load data into the desired format, and Tableau Public to create and publish the visualiztions. The following visualizations were created for this analysis:
 *  A line graph displaying the number of bikes checked out by duration for all users
