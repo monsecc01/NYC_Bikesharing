@@ -19,11 +19,20 @@ The results for Checkout Times for all users show that the majority ride for an 
 
 <img width="572" alt="checkout times for users" src="https://user-images.githubusercontent.com/81447450/123561760-ec41a980-d76f-11eb-9fc1-f7c422900bd6.png">
 
-The Checkout Times by gender visualization further dives into the checkout time data. We see that the majority of riders are males.
+The Checkout Times by gender visualization further dives into the checkout time data. We see that the majority of riders identify as male.
 
 <img width="653" alt="checkout by gender" src="https://user-images.githubusercontent.com/81447450/123561764-f19ef400-d76f-11eb-8471-5df6b8424c8c.png">
+
+When observing the Bike Trips heatmap for each hour of the day , we see that more bike trips occur during the usual work start and end times (8 am -5 pm). This further supports the conclusion that bikes are used for commuting to and from work. On Saturday afternoons we also see high activity, this could be due to recreational bike riding around the city. 
+
 <img width="374" alt="weekday per hour" src="https://user-images.githubusercontent.com/81447450/123561767-f6fc3e80-d76f-11eb-91e0-9e7b3f77660e.png">
+
+The results for the Bike Trips heatmap broken up by gender shows similar results as the heatmap for all users and the Checkout Times by gender line graph. It showed that most of the bike riders that commute during end/start work hours identify as male. 
+
 <img width="571" alt="trips by gender" src="https://user-images.githubusercontent.com/81447450/123562665-b69fbf00-d775-11eb-9b6c-daeab2847792.png">
+
+When we look at the Bike Trips heatmap by user type and gender, we see that most reocurring  
+
 <img width="352" alt="by Gender by weekday" src="https://user-images.githubusercontent.com/81447450/123561775-fcf21f80-d76f-11eb-96e5-e89d5ad0e29e.png">
 
 
